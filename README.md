@@ -4,19 +4,13 @@
 ![Version](https://img.shields.io/badge/Version-0.9.1_Beta-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-**Code Quality:**  
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/81b2b1c82dd345e0abb35dbef49c258b)](https://app.codacy.com/gh/munimaru62o/GameCoreFramework/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=munimaru62o_GameCoreFramework&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=munimaru62o_GameCoreFramework)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=munimaru62o_GameCoreFramework&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=munimaru62o_GameCoreFramework)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=munimaru62o_GameCoreFramework&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=munimaru62o_GameCoreFramework)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=munimaru62o_GameCoreFramework&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=munimaru62o_GameCoreFramework)
-
 🌍 *Read this in other languages: [English](README.md) | [日本語 (Japanese)](README_ja.md)* *(Note: The English documentation is AI-translated from the original Japanese).*
 
 > [!IMPORTANT]  
 > **This repository is a portal for documentation and public relations.**  
 > Because this framework contains code dependent on Epic Games' *Lyra Starter Game*, the actual source code is not hosted in this repository. In accordance with the Unreal Engine EULA, it is hosted in a **"Private Fork on the Epic Games network (Closed Environment)."**<br>
-> Anyone who has linked their Epic Games and GitHub accounts can access it directly (no invitation required). For details, please see [🚀 Source Code Access and Installation](#-source-code-access-and-installation).
+> Anyone who has linked their Epic Games and GitHub accounts can access it directly (no invitation required).<br>
+> For details, please see [🚀 Source Code Access and Installation](#-source-code-access-and-installation).
 
 ## 📑 Table of Contents
 - [🎯 Project Overview](#-project-overview)
@@ -116,7 +110,7 @@ For details on the design philosophy and individual systems of GCF, please refer
 
 ### Step 1: Link Epic Games and GitHub (Get Access)
 
-The source code and the project itself are hosted on a **Private Fork on the Epic official network** (`https://github.com/munimaru62o/UnrealEngine.git`).
+The source code and the project itself are hosted on a **Private Fork on the Epic official network** (`https://github.com/munimaru62o/UnrealEngine`).
 
 Access is not invitation-based. If you complete the account linking according to the **[instructions provided by Epic Games to download Unreal Engine source code](https://www.unrealengine.com/ue-on-github)** and join the Epic Games GitHub Organization (`@EpicGames/developers`), you will be able to access the URL directly.
 
