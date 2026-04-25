@@ -110,7 +110,7 @@ For details on the design philosophy and individual systems of GCF, please refer
 
 ### Step 1: Link Epic Games and GitHub (Get Access)
 
-The source code and the project itself are hosted on a **Private Fork on the Epic official network** (`https://github.com/munimaru62o/UnrealEngine`).
+The source code and the project itself are hosted on a **Private Fork on the Epic official network** （[https://github.com/munimaru62o/UnrealEngine.git](https://github.com/munimaru62o/UnrealEngine)）.
 
 Access is not invitation-based. If you complete the account linking according to the **[instructions provided by Epic Games to download Unreal Engine source code](https://www.unrealengine.com/ue-on-github)** and join the Epic Games GitHub Organization (`@EpicGames/developers`), you will be able to access the URL directly.
 
