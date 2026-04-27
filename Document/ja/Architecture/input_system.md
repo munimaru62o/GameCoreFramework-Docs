@@ -28,7 +28,7 @@
 
 ## 📐 アーキテクチャの4つのレイヤー
 
-<img width="10509" height="5289" alt="input_system drawio" src="https://github.com/user-attachments/assets/6bb5c28e-f7a7-423f-add1-d2f1173a91a5" />
+<img width="10509" height="5289" alt="input_system drawio" src="https://github.com/user-attachments/assets/0cd866dc-6be7-4747-a2bf-63534c4fcc6b" />
 
 *▲ クラス図の細部を確認される際は、画像をクリックするかダウンロードして拡大してご覧ください。*
 

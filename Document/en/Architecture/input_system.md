@@ -25,7 +25,7 @@ This system solves these challenges at the architectural level by dividing the r
 
 ## 📐 The Four Architecture Layers
 
-<img width="10509" height="5289" alt="input_system drawio" src="https://github.com/user-attachments/assets/6bb5c28e-f7a7-423f-add1-d2f1173a91a5" />
+<img width="10509" height="5289" alt="input_system drawio" src="https://github.com/user-attachments/assets/0cd866dc-6be7-4747-a2bf-63534c4fcc6b" />
 
 *▲ Click or download the image to enlarge and view the details of the class diagram.*
 

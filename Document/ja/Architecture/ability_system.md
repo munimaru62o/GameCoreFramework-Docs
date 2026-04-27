@@ -30,7 +30,7 @@
 
 ## 📐 アーキテクチャの5つのレイヤー
 
-<img width="8061" height="3999" alt="ability_system drawio" src="https://github.com/user-attachments/assets/a273a2ef-33df-42cc-bd43-3275f328efce" />
+<img width="8061" height="3999" alt="ability_system drawio" src="https://github.com/user-attachments/assets/80223d37-ffa9-48d3-b744-f27a71b5c493" />
 
 *▲ クラス図の細部を確認される際は、画像をクリックするかダウンロードして拡大してご覧ください。*
 
@@ -110,4 +110,4 @@
 - **プランナー主導の開発**  
    新しいスキルを追加する際、プログラマがC++で入力バインドのコードを書く必要がなくなります。プランナーがDataAsset（`UGCFInputConfig`）にタグを登録するだけで、システムが自動的に適切なASCへ繋ぎ込みを行います。
 
-
+

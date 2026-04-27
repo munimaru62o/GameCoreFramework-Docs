@@ -25,7 +25,7 @@ This system solves these challenges through "abstraction via interfaces" and "st
 
 ## 📐 The Four Architecture Layers
 
-<img width="11889" height="7089" alt="control_system drawio" src="https://github.com/user-attachments/assets/05639ceb-493b-43ff-9841-2513ced4837c" />
+<img width="11889" height="7089" alt="control_system drawio" src="https://github.com/user-attachments/assets/ef78ba6d-0a0d-479f-9372-1abbdf9fea0b" />
 
 *▲ Click or download the image to enlarge and view the details of the class diagram.*
 
@@ -92,4 +92,4 @@ The sequence from when a player tilts a thumbstick to when the character moves i
 
 - **Seamless Integration of Event-Driven and Tick-Based Simulations** The Mover plugin requires Tick-based input prediction, whereas this framework is event-driven. To absorb this paradigm difference, we built a "Cache & Pull Mechanism" using the Pawn as a relay point. This maintains the lightness of event-driven architecture while fully utilizing Mover's powerful network synchronization and rollback capabilities.
 
-
+

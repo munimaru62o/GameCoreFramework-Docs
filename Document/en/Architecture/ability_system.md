@@ -27,7 +27,7 @@ This system solves these challenges at the architectural level through the "comp
 
 ## 📐 The Five Architecture Layers
 
-<img width="8061" height="3999" alt="ability_system drawio" src="https://github.com/user-attachments/assets/a273a2ef-33df-42cc-bd43-3275f328efce" />
+<img width="8061" height="3999" alt="ability_system drawio" src="https://github.com/user-attachments/assets/80223d37-ffa9-48d3-b744-f27a71b5c493" />
 
 *▲ Click or download the image to enlarge and view the details of the class diagram.*
 
@@ -93,4 +93,4 @@ The sequence from when a player presses a button to when an ability is triggered
 
 - **Planner-Driven Development:** When adding new skills, programmers no longer need to write input binding code in C++. Planners simply register the tag in the DataAsset (`UGCFInputConfig`), and the system automatically wires it to the appropriate ASC.
 
-
+
