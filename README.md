@@ -1,7 +1,7 @@
 # GameCoreFramework (GCF)
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5.7+-white.svg?logo=unrealengine&logoColor=white&color=0E1128)
-![Version](https://img.shields.io/badge/Version-0.9.1_Beta-blue.svg)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-5.8+-white.svg?logo=unrealengine&logoColor=white&color=0E1128)
+![Version](https://img.shields.io/badge/Version-0.10.1_Beta-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 🌍 *Read this in other languages: [English](README.md) | [日本語 (Japanese)](README_ja.md)* *(Note: The English documentation is AI-translated from the original Japanese).*
